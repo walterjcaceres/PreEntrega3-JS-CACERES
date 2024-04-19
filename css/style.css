@@ -1,0 +1,11 @@
+.italica{
+    font-style: italic;
+}
+
+.finita{
+    font-weight: lighter;
+}
+
+.noVisible{
+    display: none;
+}
